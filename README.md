@@ -6,3 +6,7 @@ A curated list of awesome Fronend frameworks, libraries, software and resources.
 ## 效果类
 
 * [雨滴效果](https://github.com/codrops/RainEffect) - 雨滴效果
+* [多边滑动效果](https://github.com/alvarotrigo/multiscroll.js) - 多变上下滑动效果
+* [打字机效果库](https://github.com/mattboldt/typed.js) - 打字机效果
+* [超棒的粒子效果](https://github.com/VincentGarreau/particles.js)
+
