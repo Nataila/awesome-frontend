@@ -10,4 +10,4 @@ A curated list of awesome Fronend frameworks, libraries, software and resources.
 * [打字机效果库](https://github.com/mattboldt/typed.js) - 打字机效果
 * [超棒的粒子效果](https://github.com/VincentGarreau/particles.js)
 * [滚动条动画效果](https://github.com/janpaepke/ScrollMagic)
-
+* [页面下拉显示效果](https://github.com/rnosov/react-reveal)
